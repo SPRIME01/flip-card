@@ -1,0 +1,23 @@
+{
+  "name": "flip-card",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "flip-card.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.5"
+  },
+  "homepage": "https://github.com/rupl/flip-card",
+  "_release": "4a44fa4109",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4a44fa410997de4061a1c92480d09e4afc1f449f"
+  },
+  "_source": "git://github.com/rupl/flip-card.git",
+  "_target": "master",
+  "_originalSource": "rupl/flip-card",
+  "_direct": true
+}
